@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Archive>
+  <Name>WsTower Ingresso</Name>
+  <PackageName>com.companyname.WsTowerIngresso</PackageName>
+  <PackageVersionCode>1</PackageVersionCode>
+  <PackageVersionName>1.0</PackageVersionName>
+  <PackageFormat>apk</PackageFormat>
+  <CreationDate>637312242580085213</CreationDate>
+  <SolutionName>Aplicativo</SolutionName>
+  <SolutionPath>C:\Users\senai\Desktop\preonto\Aplicativo.sln</SolutionPath>
+  <Status></Status>
+  <Configuration>
+    <DebugMode>false</DebugMode>
+  </Configuration>
+</Archive>
